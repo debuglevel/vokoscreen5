@@ -1,0 +1,12 @@
+<RCC>
+  <qresource>
+    <file>pictures/vokoscreen.png</file>
+    <file>pictures/about.png</file>
+    <file>pictures/micro.png</file>
+    <file>pictures/tools.png</file>
+    <file>pictures/videooptionen.png</file>
+    <file>pictures/webcam.png</file>
+    <file>pictures/VokoCola.png</file>
+    <file>pictures/monitor.png</file>
+  </qresource>
+</RCC>

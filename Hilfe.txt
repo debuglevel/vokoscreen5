@@ -1,0 +1,18 @@
+
+
+
+
+qmake-qt5
+
+uic-qt5 
+
+
+Änderungen in Qt5:
+https://qt.gitorious.org/qt/qtbase/source/b6d50e2aa6e6eb08dec6431f94892dcbbba8a213:dist/changes-5.0.0
+- QCoreApplication::translate() will no longer return the source text when
+the translation is empty. Use lrelease -removeidentical for optimization.
+
+
+
+Windows:
+Programm: Yawcam
